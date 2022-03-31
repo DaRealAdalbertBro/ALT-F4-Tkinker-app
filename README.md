@@ -11,3 +11,5 @@ What do you want the computer to do? That's the question for a super duper app I
 ### My "better" Windows shutdown pop-up (should also work on Linux)
 
 ![image](https://user-images.githubusercontent.com/56306485/161042237-b821d28b-079a-4dcf-abfd-1a8e23e826a4.png)
+
+![image](https://user-images.githubusercontent.com/56306485/161042474-ed707a5a-d7fb-4512-84d7-b2ab834b4053.png)
